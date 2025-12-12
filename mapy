@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Mapy</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body style="background-color: black; color: #fff;">
+
+<div class="sidebar">
+    <h2>MAPY</h2>
+    <ul>
+        <li><a href="../index.html">Zpět na hlavní stránku</a></li>
+    </ul>
+</div>
+
+<div class="main-content">
+    <h1>Sem přidáme interaktivní mapy</h1>
+</div>
+
+</body>
+</html>
 
